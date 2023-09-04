@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**PavelRyauzov/PavelRyauzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm open for opportunities
+I am always open to new opportunities and cooperation. If you have any suggestions or would like to contact me, please send me an email or contact me on Telegram.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+– contact me.
+[<img align="left" alt="l3r8yJ | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:pavel.ryauzov@gmail.com)
+[<img align="left" alt="l3r8yJ | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/PavelRauzov)
+<br/>
+
+Check out the projects I have been or will be involved in the foreseeable future:
+  - [Blamer-io](https://github.com/blamer-io/)
